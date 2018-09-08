@@ -6,8 +6,10 @@ background: linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/
 .container {
     width: 100%;
     margin: 0 auto;
+
 }
 
 #logoImage {
     height: 600px;
+    margin: 0 auto;
 }
