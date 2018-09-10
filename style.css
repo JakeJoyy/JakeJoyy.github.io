@@ -9,13 +9,13 @@ body {
     text-align: center;
 }
 #logoImage {
-    height: 800px;
+    height: 600px;
     margin: 0 auto;
 }
 
 @media screen and (max-width: 850px){
     #logoImage {
-        height: 600px;
+        height: 350px;
     }
     body {
         overflow-x: hidden !important;
@@ -28,7 +28,7 @@ body {
 
 @media screen and (max-width: 550px){
     #logoImage {
-        height: 400px;
+        height: 350px;
     }
     body {
         overflow-x: hidden !important;
